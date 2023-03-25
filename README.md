@@ -8,6 +8,8 @@
   - Full stack development
   - Automation for websites and games
   - Blockchain
+  - BitTorrent
+  - Decentralisation
   - Android Development
 
 <p>
