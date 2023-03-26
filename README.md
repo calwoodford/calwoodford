@@ -12,6 +12,7 @@
   - BitTorrent
   - Android Development
 
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=calwoodford&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calwoodford&layout=compact&langs_count=6" alt="Most used languages" />
