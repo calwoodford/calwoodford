@@ -6,7 +6,7 @@
   -  A video game written in C# utilising Unity featuring a frog: **[Anura](https://github.com/calwoodford/anura)**
 
 - 🧠 Interests include:
-  - Full stack development
+  - Java/Rust development
   - Automation for websites and games
   - Blockchain
   - BitTorrent
