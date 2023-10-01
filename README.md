@@ -27,8 +27,8 @@ Languages and Tools:
 
 My Projects:
 
-<a href="https://longcovidbase.com" target="_blank"> <img alt="longcovidbase.com" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/longcovidbase_green.png?raw=true" height="68" align="left"> </a>
-<a href="https://brickblock.site" target="_blank"> <img alt="brickblock" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/brickblock_green.png?raw=true" height="68" align="left"> </a>
+<a href="https://longcovidbase.com" target="_blank"> <img alt="longcovidbase.com" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/lcb_applogo_green.svg?raw=true" height="68" align="left"> </a>
+<a href="https://brickblock.site" target="_blank"> <img alt="brickblock" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/brickblock_applogo__green.svg?raw=true" height="68" align="left"> </a>
 <a href="https://www.reactiongifs.com/r/2013/08/classified.gif" target="_blank"> <img alt="stealth" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/stealth_green.png?raw=true" height="68" align="left"> </a>
 <a href="https://nasaapodgenerator.netlify.app/" target="_blank"> <img alt="nasaapodgenerator" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/saturn_green.png?raw=true" height="68" align="left"> </a>
 <a href="https://gbprecipitationradar.netlify.app/" target="_blank"> <img alt="gbprecipitationradar" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/lightning_green.png?raw=true" height="68" align="left"> </a>
