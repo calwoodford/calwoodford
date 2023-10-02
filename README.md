@@ -20,9 +20,10 @@ Languages and Tools:
 <a href="https://typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/typescript_green.png?raw=true"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/react_green.png?raw=true"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/node_green.png?raw=true"></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/postgresql_green.svg?raw=true" align="left" alt="PostgreSQL" height='42px'/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/dart_green.png?raw=true" alt="dart" height='42px'/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/flutter_green.png?raw=true" align="left" alt="Flutter" height='42px'/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/postgresql_green.svg?raw=true" align="left" alt="PostgreSQL" height='42px'/> </a>
+
 
 <br>
 
