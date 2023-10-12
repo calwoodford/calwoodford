@@ -2,7 +2,7 @@
 
 <img align="centre" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jld3Jib2NyZjVuOWo3bWo4aWVrNHY4MTUxMzQxb2lmZmw4cWZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif" width="600px"/>
 
-When I’m not imbuing spells into magic rocks that do 4.42 * 10^17 calculations p/s, I love [reading](https://www.goodreads.com/user/show/83229413-callum-woodford), [writing](https://calwoodford.com/books), playing tennis, listening to podcasts and classical music, fasting, losing at [chess](https://www.chess.com/member/gloriouscal) and drinking posh tea.
+When I’m not imbuing spells into magic rocks that do 4.42 * 10^17 calculations p/s, I love [reading](https://www.goodreads.com/user/show/83229413-callum-woodford), [writing](https://calwoodford.com/books), accelerating towards the singularity, listening to podcasts and classical music, fasting, losing at [chess](https://www.chess.com/member/gloriouscal) and drinking posh tea.
 
 I used to work in architecture, but ultimately found software architecture more interesting than tectonic architecture. I'm apparently an ['entrepreneur'](https://www.thestar.co.uk/news/striking-image-by-young-sheffield-entrepreneur-is-award-winner-227956).
 <br>
