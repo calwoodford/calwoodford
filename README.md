@@ -9,7 +9,7 @@ I originally studied architecture at university, which gave me an appreciation f
 However, I ultimately realised software architecture and technology are more interesting than tectonic architecture.
 I think programming is the closest thing to magic there is.
 
-I'm also apparently an ['entrepreneur'](https://www.thestar.co.uk/news/striking-image-by-young-sheffield-entrepreneur-is-award-winner-227956).
+I'm apparently an ['entrepreneur'](https://www.thestar.co.uk/news/striking-image-by-young-sheffield-entrepreneur-is-award-winner-227956).
 <br>
 <br>
 
