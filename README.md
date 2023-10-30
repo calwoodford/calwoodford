@@ -4,9 +4,7 @@
 
 When I’m not imbuing spells into magic rocks that do 4.42 * 10^17 calculations p/s, I love [reading](https://www.goodreads.com/user/show/83229413-callum-woodford), [writing](https://calwoodford.com/books), accelerating towards the singularity, listening to podcasts and classical music, fasting, losing at [chess](https://www.chess.com/member/gloriouscal) and drinking posh tea.
 
-I originally studied architecture at university, which gave me an appreciation for UX/UI. What is architecture if not UX/UI for physical space?
-
-However, I ultimately realised software architecture and technology are more interesting than tectonic architecture.
+I originally studied architecture at university, however, I ultimately realised software architecture and technology are more interesting than tectonic architecture.
 I think programming is the closest thing to magic there is.
 
 I'm apparently an ['entrepreneur'](https://www.thestar.co.uk/news/striking-image-by-young-sheffield-entrepreneur-is-award-winner-227956).
