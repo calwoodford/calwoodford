@@ -21,7 +21,9 @@ Languages and Tools:
 <a href="https://typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/typescript_green.png?raw=true"></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/nextjs_green.png?raw=true"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/react_green.png?raw=true"></a>
-<a href="https://python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/python_green.png?raw=true"></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/tailwind_logo_green.svg"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/
+assets/green_icons/python_green.png?raw=true"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/node_green.png?raw=true"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/postgresql_green.svg?raw=true" align="left" alt="PostgreSQL" height='42px'/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/dart_green.png?raw=true" alt="dart" height='42px'/> </a>
