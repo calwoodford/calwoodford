@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Cal!)](https://git.io/typing-svg)
 
-<img align="centre" alt="GIF" src="./assets/hackerwebp.webp" width="600px"/>
+<img align="centre" alt="GIF" src="./assets/hackerwebp.webp" width="600px"/> <!-- hackergif.gif is lower quality>
 
 <!-- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jld3Jib2NyZjVuOWo3bWo4aWVrNHY4MTUxMzQxb2lmZmw4cWZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif
 !-->
