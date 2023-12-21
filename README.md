@@ -1,6 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Cal!)](https://git.io/typing-svg)
 
-<img align="centre" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jld3Jib2NyZjVuOWo3bWo4aWVrNHY4MTUxMzQxb2lmZmw4cWZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif" width="600px"/>
+<img align="centre" alt="GIF" src="./assets/hacker.gif" width="600px"/>
+
+<!-- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jld3Jib2NyZjVuOWo3bWo4aWVrNHY4MTUxMzQxb2lmZmw4cWZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif
+!-->
+
+<br>
 
 When I’m not imbuing spells into magic rocks that do 4.42 * 10^17 calculations p/s, I love [reading](https://www.goodreads.com/user/show/83229413-callum-woodford), [writing](https://calwoodford.com/books), accelerating towards the singularity, listening to podcasts and classical music, fasting, losing at [chess](https://www.chess.com/member/gloriouscal) and drinking posh tea.
 
