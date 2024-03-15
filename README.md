@@ -9,7 +9,7 @@
 
 <br>
 
-AI Executive.
+Artificial Intelligence and Innovation Consultant.
 
 When I’m not imbuing spells into magic rocks that do 4.42 * 10^17 calculations p/s, I love [reading](https://www.goodreads.com/user/show/83229413-callum-woodford), [writing](https://calwoodford.com/books), listening to podcasts and classical music, fasting, losing at [chess](https://www.chess.com/member/gloriouscal) and drinking posh tea.
 
