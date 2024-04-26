@@ -43,9 +43,7 @@ Tools/Frameworks:
 My Projects:
 
 <a href="https://calwoodford.com" target="_blank"> <img alt="calwoodford.com" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/personalwebsite_green.svg?raw=true" height="68" align="left"> </a>
-<a href="https://brum-ai-test.netlify.app/" target="_blank"> <img alt="https://brum-ai-test.netlify.app/" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/brumai_logo_green.svg?raw=true" height="68" align="left"> </a>
 <a href="https://longcovidbase.com" target="_blank"> <img alt="longcovidbase.com" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/lcb_applogo_green.svg?raw=true" height="68" align="left"> </a>
-<a href="https://brickblock.site" target="_blank"> <img alt="brickblock" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/brickblock_applogo_green.svg?raw=true" height="68" align="left"> </a>
 <a href="https://nasaapodgenerator.netlify.app/" target="_blank"> <img alt="nasaapodgenerator" src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/nasaapod_framed_green.png?raw=true" height="68" align="left"> </a>
 
 <br><br>
