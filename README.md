@@ -33,6 +33,7 @@ Languages:
 
 Tools/Frameworks:
 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/django-icon.png?raw=true" align="left" alt="Django" height='42px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/calwoodford/calwoodford/blob/main/assets/green_icons/postgresql_green.svg?raw=true" align="left" alt="PostgreSQL" height='42px'/> </a>
 
 <br>
